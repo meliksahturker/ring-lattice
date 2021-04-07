@@ -1,7 +1,7 @@
 
 # Ring Lattice
 
-Inspection of Ring Lattice ($N=100$) and bridge in middle in terms of graph properties and disease spreading
+Inspection of Ring Lattice (N=100) and bridge in middle in terms of graph properties and disease spreading
 
 Used Wattz Strogatz with rewiring probability = 0 for network creation.
 
